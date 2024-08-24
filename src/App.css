@@ -1,0 +1,14 @@
+
+
+.incompleted {
+  color: #000000;
+  cursor: pointer;
+}
+
+.completed {
+  color: #1c1a1e;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+
